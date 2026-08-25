@@ -1,0 +1,11 @@
+{
+  "name": "react-use-debounce",
+  "version": "1.0.0",
+  "description": "A highly professional, lightweight React hook for debouncing fast-changing values.",
+  "main": "index.js",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "author": "heba-dora",
+  "license": "MIT"
+}
